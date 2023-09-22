@@ -1,8 +1,8 @@
 echo
 <<<<<<< HEAD
 !/bin/bashX
-echo "ALX schoo" 
+echo " ALX schoo " 
 =======
 !/bin/bash
-echo "ALX scool"
+echo " ALX scool "
 >>>>>>> update_script
